@@ -45,7 +45,7 @@ Generate character flaws for your D&D campaigns with this simple Python program 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Contributions
 
