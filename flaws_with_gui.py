@@ -6,7 +6,7 @@ from tkinter import messagebox
 data = {}
 
 def load_data():
-    with open('C:/Users/bg/OneDrive/Documents/DnD/character_creation/dnd_character_flaws.csv', 'r') as file:
+    with open('dnd_character_flaws.csv', 'r') as file:
         reader = csv.reader(file, delimiter=',')
         entry_number = 1
 
